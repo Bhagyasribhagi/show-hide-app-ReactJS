@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(#fa7257, #fc63a7);
+  height: 100vh;
+  text-align: center;
+}
+.name {
+  background-color: white;
+  color: black;
+}
